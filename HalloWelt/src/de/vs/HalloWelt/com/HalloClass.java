@@ -7,7 +7,7 @@ public class HalloClass {
 	}
 
 	public static void main(String[] args) {
-	System.out.println("Hallo Welt  the many agethetetetetaggatetetes in Europa");
+	System.out.println("Hallo Welt  the many agethetetetetaggatetetes in Europa  america");
      
 	}
 
